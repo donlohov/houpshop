@@ -1,0 +1,39 @@
+{
+  "open-in-browser.default": "'chrome'",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.activityBar.visible": true,
+  "editor.glyphMargin": true,
+  "extensions.autoUpdate": true,
+  "editor.minimap.enabled": true,
+  "editor.detectIndentation": false,
+  "editor.renderControlCharacters": true,
+  "editor.tabSize": 2,
+  "editor.lineNumbers": "on",
+  "explorer.sortOrder": "type",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.wordWrap": "on",
+  "editor.minimap.showSlider": "mouseover",
+  "window.openFilesInNewWindow": "off",
+  "files.autoSave": "afterDelay",
+  "window.zoomLevel": -1,
+  "editor.letterSpacing": 0,
+  "editor.fontSize": 13,
+  "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "vscode-icons",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.menuBarVisibility": "toggle",
+  "workbench.sideBar.location": "right",
+  "editor.renderWhitespace": "all",
+  "emmet.excludeLanguages": [
+    "markdown",
+    "pug"
+  ],
+  "[jade]": {
+
+  },
+
+}
